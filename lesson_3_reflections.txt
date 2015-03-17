@@ -1,0 +1,2 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: When I want to share the files with other people. Or access the files from 2 or more computers.
