@@ -3,3 +3,18 @@ A: A .git file is created. It tells Git that this directory is now a repository.
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: The staging area is temporary, whereas the working directory is permanent. The staging area allows you to group files together before committing them.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: Add the files to the staging area that are logically related.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Branches are helpful when there are multiple releases with different changes applied to each release.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Branches can be visualized more easily when the diagram shows how the branches related to each other.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The result is that the merged branch now contains the changes from both branches.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: The pro is that automatic merging takes less time. The con is that it might not merge correctly.
