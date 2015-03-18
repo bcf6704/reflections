@@ -10,3 +10,9 @@ A: A fork is a remote copy of a remote repository. A clone is a local copy of a 
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: So that you can make off-line changes.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Send the files to my collaborator via email. This would be much harder.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: Keeping your changes in a separate branch allows the change to be verified by your peers before breaking the master.
